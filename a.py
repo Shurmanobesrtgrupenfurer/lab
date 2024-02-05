@@ -31,3 +31,5 @@ for i in range(shape_df - 1):
                     marker = 'x'
 plt.scatter(df['Название банка'][class_indices, i], ds['Название банка'][class_indices, j],
             label = f'Класс {df['targe]}')
+
+#Light Wheight Baby
