@@ -4,6 +4,7 @@ import numpy
 import pandas
 import pandas as pd
 import seaborn as sns
+#ONLY SYSTEM REM
 
 
 df = pd.DataFrame({'Сумма кредита': [100, 400, 200, 500],
